@@ -1,0 +1,20 @@
+se me perdio el primer promt xd
+segundo promt en index.css configura el index.css con las directivas de base , componets y utilities,
+
+ genera un formulario funcional para que los choferes ingresen su ruta , dale un estilo simple en un apartado 
+ que sea facil de acceder, el formulario debe tener exactamente 6 campos , 1 imput de texto para el nombre del 
+ chofer , 2 imput de la ruta (de muermos hasta puerto montt, campo de maximo 200 palabras en caso que pase por 
+ rutas alternativas), 3 textear el dia y la hora que hace la ruta maximo 150 palabras , 4 item de precio de 
+ traslado , 5 boton que te permita escoger el numero de asientos disponibles de 1 al 4 solo eso , 6 un espacio
+  para escribir su descripcion "maximo 500 palabras y que diga por ejemplo ; pueden contactarme por este numero 
+  y estas son mis redes o este es mi discord" ademas al enviar el formulario utiliza la funcion addRoute  del 
+  contexto para guardar en el localstorage y dejar limpios los campos .
+  no escribi el promt de DriverDashboard pero no fue muy largo
+  se hacen pequeños cambios varios promts antes de dejar algo listo
+  funcionalmente debe mostrar los datosd de los pasajeros como el nombre carrera y su descripcion aunque puede 
+  ser con un boton que solo muestre los nombres y al tocar este despliegue el resto de informacion , debe ser 
+  capas de leer el estado de pasajeros y rutas para que estos mediante el ID puedan ser vistos y recordados
+  promts variados que no anote ; modificadores en DriverDashboard , en App , lista de rutas y más
+  se crean varios componentes para cada cosa , segun en un video tengo que dejar los componentes ceparados
+  para que en caso que algo falle pueda repararlo de forma eficiente , 
+  nota para borrar "revisar denuevo el node derrepente da errores"
